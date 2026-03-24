@@ -1,5 +1,8 @@
 # docker2k8s
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Convert `docker-compose.yml` to production-ready Kubernetes manifests in one command.
 
 ```bash
